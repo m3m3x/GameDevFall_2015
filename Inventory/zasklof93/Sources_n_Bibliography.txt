@@ -1,0 +1,18 @@
+Sources:
+
+Jungle tiles:
+http://opp.opengameart.org/images/thumb/b/bd/Jungle_terrainwater.png/800px-Jungle_terrainwater.png
+
+Character(Ryu):
+http://orig11.deviantart.net/46f2/f/2011/083/7/a/ryu__run_and_walk_spritesheet_by_mrshackra-d3bvqn0.png
+
+Sky background:
+http://orig13.deviantart.net/8731/f/2011/177/e/8/free_sky_background_by_doris4u-d3k1isx.png
+
+Sign Post:
+http://opengameart.org/sites/default/files/signpost_0.png
+
+Houses: http://www.deviantart.com/art/Village-houses-451267879
+
+Song:
+Made in Music Maker Jam (loops are free to use to compose and may distribute freely but must buy liscenses for loops if it is a commercial product)
